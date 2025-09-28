@@ -5,7 +5,7 @@ This is my first mini project that I made using OOP. It consists of a simple gam
 ## Setup 
 ```bash 
 git clone https://github.com/JoaoSalgueiroo/Invasores
-cd invasores
+cd Invasores
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
